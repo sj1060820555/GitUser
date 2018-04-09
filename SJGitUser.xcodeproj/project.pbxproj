@@ -19,6 +19,7 @@
 		6542FA8A207AF92900F4543B /* oneVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6542FA89207AF92900F4543B /* oneVC.m */; };
 		6542FA8D207AFF7B00F4543B /* twoVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6542FA8C207AFF7B00F4543B /* twoVC.m */; };
 		6542FA93207B146E00F4543B /* vcThree.m in Sources */ = {isa = PBXBuildFile; fileRef = 6542FA92207B146E00F4543B /* vcThree.m */; };
+		6542FA96207B3A7B00F4543B /* deleageFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 6542FA95207B3A7B00F4543B /* deleageFile.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,8 @@
 		6542FA8C207AFF7B00F4543B /* twoVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = twoVC.m; sourceTree = "<group>"; };
 		6542FA91207B146E00F4543B /* vcThree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = vcThree.h; sourceTree = "<group>"; };
 		6542FA92207B146E00F4543B /* vcThree.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = vcThree.m; sourceTree = "<group>"; };
+		6542FA94207B3A7B00F4543B /* deleageFile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = deleageFile.h; sourceTree = "<group>"; };
+		6542FA95207B3A7B00F4543B /* deleageFile.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = deleageFile.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +125,8 @@
 				6542FA8C207AFF7B00F4543B /* twoVC.m */,
 				6542FA91207B146E00F4543B /* vcThree.h */,
 				6542FA92207B146E00F4543B /* vcThree.m */,
+				6542FA94207B3A7B00F4543B /* deleageFile.h */,
+				6542FA95207B3A7B00F4543B /* deleageFile.m */,
 				6542FA59207AF82300F4543B /* Main.storyboard */,
 				6542FA5F207AF82300F4543B /* Assets.xcassets */,
 				6542FA61207AF82300F4543B /* LaunchScreen.storyboard */,
@@ -287,6 +292,7 @@
 				6542FA8D207AFF7B00F4543B /* twoVC.m in Sources */,
 				6542FA8A207AF92900F4543B /* oneVC.m in Sources */,
 				6542FA55207AF82300F4543B /* AppDelegate.m in Sources */,
+				6542FA96207B3A7B00F4543B /* deleageFile.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -33,6 +33,11 @@
     view3.frame = CGRectMake(0, 300, 100, 100);
     [self.view addSubview:view3];
     // Do any additional setup after loading the view.
+    
+    UIView *view4 = [[UIView alloc]init];
+    view4.backgroundColor = [UIColor redColor];
+    view4.frame = CGRectMake(0, 300, 100, 100);
+    [self.view addSubview:view4];
 }
 
 - (void)didReceiveMemoryWarning {
