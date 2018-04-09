@@ -43,6 +43,11 @@
     view5.backgroundColor = [UIColor redColor];
     view5.frame = CGRectMake(0, 300, 100, 100);
     [self.view addSubview:view5];
+    
+    UIView *view7 = [[UIView alloc]init];
+    view7.backgroundColor = [UIColor redColor];
+    view7.frame = CGRectMake(0, 300, 100, 100);
+    [self.view addSubview:view7];
 }
 
 - (void)didReceiveMemoryWarning {
