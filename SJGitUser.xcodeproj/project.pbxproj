@@ -17,6 +17,7 @@
 		6542FA70207AF82300F4543B /* SJGitUserTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6542FA6F207AF82300F4543B /* SJGitUserTests.m */; };
 		6542FA7B207AF82300F4543B /* SJGitUserUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6542FA7A207AF82300F4543B /* SJGitUserUITests.m */; };
 		6542FA8A207AF92900F4543B /* oneVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6542FA89207AF92900F4543B /* oneVC.m */; };
+		6542FA8D207AFF7B00F4543B /* twoVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6542FA8C207AFF7B00F4543B /* twoVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,8 @@
 		6542FA7C207AF82300F4543B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6542FA88207AF92900F4543B /* oneVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = oneVC.h; sourceTree = "<group>"; };
 		6542FA89207AF92900F4543B /* oneVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = oneVC.m; sourceTree = "<group>"; };
+		6542FA8B207AFF7B00F4543B /* twoVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = twoVC.h; sourceTree = "<group>"; };
+		6542FA8C207AFF7B00F4543B /* twoVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = twoVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +115,8 @@
 				6542FA57207AF82300F4543B /* ViewController.m */,
 				6542FA88207AF92900F4543B /* oneVC.h */,
 				6542FA89207AF92900F4543B /* oneVC.m */,
+				6542FA8B207AFF7B00F4543B /* twoVC.h */,
+				6542FA8C207AFF7B00F4543B /* twoVC.m */,
 				6542FA59207AF82300F4543B /* Main.storyboard */,
 				6542FA5F207AF82300F4543B /* Assets.xcassets */,
 				6542FA61207AF82300F4543B /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 				6542FA58207AF82300F4543B /* ViewController.m in Sources */,
 				6542FA5E207AF82300F4543B /* SJGitUser.xcdatamodeld in Sources */,
 				6542FA66207AF82300F4543B /* main.m in Sources */,
+				6542FA8D207AFF7B00F4543B /* twoVC.m in Sources */,
 				6542FA8A207AF92900F4543B /* oneVC.m in Sources */,
 				6542FA55207AF82300F4543B /* AppDelegate.m in Sources */,
 			);

@@ -1,23 +1,22 @@
 //
-//  oneVC.m
+//  twoVC.m
 //  SJGitUser
 //
 //  Created by weibiao li on 2018/4/9.
 //  Copyright © 2018年 SJ. All rights reserved.
 //
 
-#import "oneVC.h"
 #import "twoVC.h"
 
-@interface oneVC ()
+@interface twoVC ()
 
 @end
 
-@implementation oneVC
+@implementation twoVC
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.view.backgroundColor = [UIColor redColor];
+      self.view.backgroundColor = [UIColor yellowColor];
     // Do any additional setup after loading the view.
 }
 
