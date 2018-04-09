@@ -19,6 +19,7 @@
 		6542FA8A207AF92900F4543B /* oneVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6542FA89207AF92900F4543B /* oneVC.m */; };
 		6542FA8D207AFF7B00F4543B /* twoVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6542FA8C207AFF7B00F4543B /* twoVC.m */; };
 		6542FA93207B146E00F4543B /* vcThree.m in Sources */ = {isa = PBXBuildFile; fileRef = 6542FA92207B146E00F4543B /* vcThree.m */; };
+		6542FA9A207B423F00F4543B /* vcFour.m in Sources */ = {isa = PBXBuildFile; fileRef = 6542FA99207B423F00F4543B /* vcFour.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,8 @@
 		6542FA91207B146E00F4543B /* vcThree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = vcThree.h; sourceTree = "<group>"; };
 		6542FA92207B146E00F4543B /* vcThree.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = vcThree.m; sourceTree = "<group>"; };
 		6542FA97207B3CF100F4543B /* testHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testHeader.h; sourceTree = "<group>"; };
+		6542FA98207B423F00F4543B /* vcFour.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = vcFour.h; sourceTree = "<group>"; };
+		6542FA99207B423F00F4543B /* vcFour.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = vcFour.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +126,8 @@
 				6542FA8C207AFF7B00F4543B /* twoVC.m */,
 				6542FA91207B146E00F4543B /* vcThree.h */,
 				6542FA92207B146E00F4543B /* vcThree.m */,
+				6542FA98207B423F00F4543B /* vcFour.h */,
+				6542FA99207B423F00F4543B /* vcFour.m */,
 				6542FA97207B3CF100F4543B /* testHeader.h */,
 				6542FA59207AF82300F4543B /* Main.storyboard */,
 				6542FA5F207AF82300F4543B /* Assets.xcassets */,
@@ -282,6 +287,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6542FA9A207B423F00F4543B /* vcFour.m in Sources */,
 				6542FA93207B146E00F4543B /* vcThree.m in Sources */,
 				6542FA58207AF82300F4543B /* ViewController.m in Sources */,
 				6542FA5E207AF82300F4543B /* SJGitUser.xcdatamodeld in Sources */,
