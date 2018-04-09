@@ -8,6 +8,8 @@
 
 #import "ViewController.h"
 
+#import "oneVC.h"
+
 @interface ViewController ()
 
 @end
@@ -16,6 +18,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    oneVC *vc = [[oneVC alloc]init];
+    [self presentViewController:vc animated:YES completion:nil];
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
