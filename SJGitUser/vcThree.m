@@ -59,6 +59,13 @@
     view8.backgroundColor = [UIColor redColor];
     view8.frame = CGRectMake(0, 300, 100, 100);
     [self.view addSubview:view8];
+    
+    
+    
+    UIView *view9 = [[UIView alloc]init];
+    view9.backgroundColor = [UIColor redColor];
+    view9.frame = CGRectMake(0, 300, 100, 100);
+    [self.view addSubview:view9];
 
 }
 
